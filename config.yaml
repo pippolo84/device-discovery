@@ -1,0 +1,7 @@
+features:
+  - name: foo
+    value: 42
+    matchOn:
+      - pciId:
+          vendor: "10de"
+          device: "1e89"
